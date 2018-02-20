@@ -141,7 +141,7 @@ header {
 }
 
 #slideshowimg {
-    width: 500px;
+    height: 650px;
 }
 
 @media (max-width: 767px) {

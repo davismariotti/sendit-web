@@ -135,6 +135,15 @@ header {
     font-size: 1.2em;
 }
 
+#slideshow {
+    text-align: center;
+    height: 800px;
+}
+
+#slideshowimg {
+    width: 500px;
+}
+
 @media (max-width: 767px) {
 
   .profile {
